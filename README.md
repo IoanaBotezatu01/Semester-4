@@ -4,7 +4,7 @@
 
 [2.Database management systems⛓](https://github.com/IoanaBotezatu01/Database-management-systems)
 
-[3.Artificial intelligence🤖]()
+[3.Artificial intelligence🤖](https://github.com/IoanaBotezatu01/Artificial-Intelligence/tree/main)
 
 [4.Web programming🖌]()
 
